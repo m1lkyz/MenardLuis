@@ -1,0 +1,142 @@
+#one {
+    width: 1300px;
+    background-color: rgb(37, 20, 20);
+    margin:auto;
+    overflow:auto;
+}
+
+ul {
+    font-size: 200%;
+    margin: 0;
+    list-style: none;
+    padding: 0;  
+}
+
+li {
+    float:left;
+}
+
+a:link {
+    width:125px;
+    text-decoration:none;
+    display:block;
+    text-align:center;
+    padding:15px;
+}
+
+.para {
+    color:aliceblue;
+    text-align:left;
+    margin-left:30px;
+    margin-right:30px;
+}
+
+.two {
+    background-color: black;
+    position: absolute;
+    width:35%;
+    height:70%;
+    margin-top: 70px;
+    margin-left:150px;
+}
+
+#onee {
+    border: 1px solid white;
+    margin-top: 70px;
+    height: 600px;
+    
+    background-color: white;
+  
+}
+
+.twoo {
+    background-image: url("images/3.jpg");
+    width:35%;
+    height:75%;
+    margin-top: 70px;
+    margin-left:720px;
+    position: relative;
+    background-size: 300px 535px;
+    background-repeat: no-repeat;
+}
+.titleAbout {
+    color:aliceblue;
+    text-align:left;
+    margin-left:30px;
+    margin-top: 60px;
+}
+
+.three {
+    background-image: url("images/4.jpg");
+    width:35%;
+    height:75%;
+    margin-left:280px;
+    position: relative;
+    background-size: 300px 535px;
+    background-repeat: no-repeat;
+    margin-top:-60%;
+}
+
+.educ {
+    text-align:left;
+    margin-left:30px;
+    color:black;
+}
+
+.threee {
+    background-color: white;
+    position:relative;
+    width:35%;
+    height:70%;
+    margin-left:600px;
+    margin-top: 80px;
+}
+#ha{
+    background-color: white;
+    border: 1px solid white;
+    margin-top: 70px;
+    height: 1100px;
+}
+
+.educs {
+    text-align:left;
+    color:black;
+    margin-top: 80px;
+}
+
+.schoolattended h1{
+    margin-top: 10px;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.bsu{
+    width:210px;
+    height:220px;
+    margin-left: 100px;
+}
+
+.calub{
+    width:210px;
+    height:220px;
+    margin-left: 250px;
+}
+
+.jmi{
+    width:210px;
+    height:220px;
+    
+    margin-left: 100px;
+}
+
+#one li a{
+    transition: 0.4s;
+}
+
+#one li a:hover{
+    background-color: rgb(73, 66, 66);
+}
+
+body{
+    background-color: white;
+}
